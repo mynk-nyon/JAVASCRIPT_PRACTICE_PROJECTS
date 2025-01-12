@@ -8,3 +8,5 @@ _Background color changing website_
 
 [PROJECT LINK](/workspaces/JAVASCRIPT_PRACTICE_PROJECTS/PROJECT_1)
 
+## Project 2
+### This project is a BMI (Body Mass Index) Calculator which helps to calculate the BMI of a person you just need to enter the Height in cm and Weight in Kg and you will get you BMI and also the review that it is Healthy, Underweight or Overweight
